@@ -131,7 +131,7 @@ layout: null
       <div class="wrap hero-grid">
         <div>
           <div class="eyebrow">AI · Computer Vision · Medical Imaging</div>
-          <h1>Viet Dung Nguyen, Ph.D.<span>Building intelligent systems for medical imaging, 3D vision, and biomechanical analysis.</span></h1>
+          <h1>Viet Nguyen, Ph.D.<span>Building intelligent systems for medical imaging, 3D vision, and biomechanical analysis.</span></h1>
           <p class="lead">AI and computer vision engineer with a research-to-production background spanning deep learning, geometric computer vision, 2D–3D registration, 3D reconstruction, orthopedic imaging, GPU computing, and high-performance scientific software.</p>
           <div class="actions">
             <a class="btn primary" href="#work">View selected work</a>
@@ -226,7 +226,7 @@ layout: null
 
   <footer>
     <div class="wrap row">
-      <div>© 2026 Viet Dung Nguyen, Ph.D.</div>
+      <div>© 2026 Viet Nguyen, Ph.D.</div>
       <a href="https://github.com/dungnvutk" target="_blank" rel="noreferrer">github.com/dungnvutk ↗</a>
     </div>
   </footer>
