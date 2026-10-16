@@ -7,7 +7,7 @@ layout: null
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Viet Dung Nguyen, Ph.D. — AI and Computer Vision Engineer specializing in medical imaging, 3D vision, orthopedic biomechanics, and real-time systems." />
+  <meta name="description" content="Viet Nguyen, Ph.D. — AI and Computer Vision Engineer specializing in medical imaging, 3D vision, orthopedic biomechanics, and real-time systems." />
   <title>Viet Dung Nguyen, Ph.D. | AI & Computer Vision</title>
   <style>
     :root {
